@@ -21,7 +21,7 @@ The data files used to create visulaizations were in the following formats:
 # Demo instructions
 
 <ol>
-<li> Clone the repo and run `npm install` to install necessary dependencies. </li>
-<li>Run `npm run dev` to start the server</li>
+<li> Clone the repo and run npm install to install necessary dependencies. </li>
+<li>Run npm run dev to start the server</li>
 <li>The web application should now be hosted at http://localhost:5173.</li>
 </ol>
