@@ -9,6 +9,8 @@ The visualisations used in the application was developed using:
   <li> <b>D3</b> </li>
   <li> <b>Vegalite</b> </li>
   <li> <b>Mapbox GL</b> </li>
+  <li> <b>Matplotlib</b> </li>
+  <li><b>ggplot2</b></li>
 </ol>
 
 The data files used to create visulaizations were in the following formats:
